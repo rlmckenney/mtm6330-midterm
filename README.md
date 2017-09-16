@@ -1,4 +1,4 @@
-# mtm6330-midterm
-## Midterm project for Algonquin MTM6330-F17
+# Algonquin College MTM6330-F1
+## Midterm project
 
-*Professor:* Robert McKenney
+**Professor:** Robert McKenney
